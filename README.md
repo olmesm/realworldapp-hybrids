@@ -27,3 +27,8 @@ npm install
 npm run dev
 
 ```
+
+## Resources
+
+- <https://realworld-docs.netlify.app/docs/intro>
+- <https://codebase.show/projects/realworld?category=frontend>
