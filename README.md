@@ -4,7 +4,7 @@
 
 # Realworld App Hybrids
 
-[![main workflow](/actions/workflows/main.yml/badge.svg)](/actions/workflows/main.yml)
+[![main workflow](https://github.com/olmesm/realworldapp-hybrids/actions/workflows/main.yml/badge.svg)](https://github.com/olmesm/realworldapp-hybrids/actions/workflows/main.yml)
 
 ---
 
