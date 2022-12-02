@@ -25,7 +25,20 @@ npm install
 
 # Start dev server
 npm run dev
+```
 
+## Demo backend
+
+Requires:
+
+- docker
+
+```bash
+docker-compose up
+
+# docs should be available on http://localhost:3000/api-docs
+# api should be available on http://localhost:3000/api
+# pgadmin should be available on http://localhost:5555 - login and password in `./docker-compose.yml`
 ```
 
 ## Resources
